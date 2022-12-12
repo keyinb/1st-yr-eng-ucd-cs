@@ -1,2 +1,2 @@
-# 1st-yr-eng-ucd-cs
-Simple C programs
+# ucd-c-programs
+Simple C programs from intro CS courses in UCD
